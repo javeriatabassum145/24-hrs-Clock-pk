@@ -1,3 +1,2 @@
-<?php
-include_once("Clock.html");
+<?php header( 'Location: /Clock.html' ) ;
 ?>
